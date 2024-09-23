@@ -58,6 +58,8 @@ pip install pyautogui opencv-python numpy keyboard
 - Ensure that the target image (Nexus Mods download button) is visible on the screen and is not occluded by other windows for successful detection.
 - The script requires sufficient screen resolution and may not perform well on very low-resolution displays.
 
+## This program is against NexusMod's TOS. Use with caution.
+
 ## License
 
 This project is open-source and available under the MIT License.
